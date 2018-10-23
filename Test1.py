@@ -7,6 +7,8 @@ print 'This is for exp2'
 print 'This is for exp3'
 print 'This is for exp3.2'
 print 'This is for master challenge'
+print 'This is for exp3.3'
+print 'This is for exp3.4'
 
 OUT = open('outputfile.txt', 'w')
 OUT.write('Hello bioinformaticians!')
