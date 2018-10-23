@@ -2,6 +2,8 @@
 
 print 'This program will make a new file and output some text'
 
+print 'This is for exp1'
+
 OUT = open('outputfile.txt', 'w')
 OUT.write('Hello bioinformaticians!')
 OUT.close()
