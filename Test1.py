@@ -1,3 +1,7 @@
 #This is a python script
 
-print 'Hello world2'
+print 'This program will make a new file and output some text'
+
+OUT = open('outputfile.txt', 'w')
+OUT.write('Hello bioinformaticians!')
+OUT.close()
